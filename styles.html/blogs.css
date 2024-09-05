@@ -6,4 +6,9 @@ div{
 .hyper{
     background-color: chocolate;
     padding: 5px;
+    font-style: italic;
+}
+p{
+    font-family: 'Courier New', Courier, monospace ;
+    font-size: x-large;
 }
