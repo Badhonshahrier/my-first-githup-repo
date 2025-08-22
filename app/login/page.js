@@ -67,6 +67,7 @@ export default function Login() {
             />
           </div>
           {error && <div className="error">{error}</div>}
+          }
           <button type="submit" className="btn" style={{ width: '100%' }}>
             Sign In
           </button>
